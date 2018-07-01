@@ -1,0 +1,17 @@
+.wrap{
+    width:500px;
+    height: 500px;
+    border: 1px solid black;
+}
+.show{
+    width: 80%;
+    height: 56%;
+    border: 1px solid black; 
+    margin: 50px;
+}
+.wrap img{
+    width: 100px;
+    height: 100px;
+    margin-top: 0;
+    margin-left: 45px; 
+}
