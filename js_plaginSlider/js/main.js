@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+  
   new Slider({
     images: '.wrap img',
     show: '.wrap .show',
