@@ -1,0 +1,16 @@
+body{
+    display: flex;
+}
+.wrap{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 50px;
+}
+.dot{
+    width: 7px;
+    height: 7px;
+    position: relative;
+    background: black;
+
+}
